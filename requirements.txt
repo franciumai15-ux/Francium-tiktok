@@ -1,0 +1,3 @@
+# This is a Node.js project, not Python — do not run `pip install` on this file.
+Node.js 18 or newer
+# Zero npm dependencies (no `npm install` needed) and no Python dependencies.

@@ -1,0 +1,1 @@
+{"bin":{"tiktok-search":"./tiktok-search.mjs"},"description":"Search TikTok from the command line and get structured JSON","license":"MIT","name":"tiktok-search-api","optionalDependencies":{"puppeteer":"^25.18.1"},"type":"module","version":"1.0.0"}
